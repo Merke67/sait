@@ -20,6 +20,7 @@
         }
         body {
             width: 50%;
+            background: rgba(50, 50, 50, 0.5);
         }
     </style>
 </head>
