@@ -9,14 +9,17 @@
         html {
             background-color: #FFFF00;
         }
-        p{
+        p {
             color: rgb(0, 255, 255);
         }
-        h1{
+        h1 {
             font-size: 16px;
         }
-        h2{
+        h2 {
             color: rgb(136, 53, 53);
+        }
+        body {
+            width: 50%;
         }
     </style>
 </head>
