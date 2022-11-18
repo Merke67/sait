@@ -7,7 +7,7 @@
     <title>Document</title>
     <style>
         html {
-            background-color: #FFFF00;
+            background-color: #0059ff;
         }
         p {
             color: rgb(0, 255, 255);
@@ -20,7 +20,7 @@
         }
         body {
             width: 50%;
-            background: rgba(50, 50, 50, 0.5);
+            background: rgba(175, 175, 175, 0.5);
         }
     </style>
 </head>
