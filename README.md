@@ -25,7 +25,7 @@
 </head>
 <body>
     <p>Сәлем Қазақ елі</p>
-    <h1>Сәлем достар</h1>
+    <h1>Hello my friends</h1>
     <h2>Let's go my brothers</h2>
 </body>
 </html>
